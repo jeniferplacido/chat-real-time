@@ -12,5 +12,8 @@
     "express": "^4.19.2",
     "express-handlebars": "^7.1.2",
     "socket.io": "^4.7.5"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
