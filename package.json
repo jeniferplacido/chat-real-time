@@ -1,0 +1,16 @@
+{
+  "name": "chat-real-time",
+  "version": "1.0.0",
+  "description": "chat ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "socket.io": "^4.7.5"
+  }
+}
